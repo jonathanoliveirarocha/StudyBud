@@ -20,7 +20,6 @@ python manage.py runserver
 <table width="100%"> 
 <tr>
 <td width="100%">
-<br>
 <img src="https://github.com/jonathanoliveirarocha/StudyBud/blob/main/SAMPLE.png">
 </td> 
 </table>
