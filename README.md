@@ -1,5 +1,5 @@
 # StudyBud
-Fiz este projeto prático com o intuito de aprender a utilizar a ferramenta Django. 
+Fiz este projeto prático com o intuito de aprender a utilizar a ferramenta Django. Trata-se de um fórum para o compartilhamento de informações sobre estudos. 
 Curso do projeto disponível em: https://www.youtube.com/watch?v=PtQiiknWUcI
 
 
