@@ -24,4 +24,3 @@ python manage.py runserver
 <img src="https://github.com/jonathanoliveirarocha/StudyBud/blob/main/SAMPLE.png">
 </td> 
 </table>
-
