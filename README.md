@@ -1,13 +1,19 @@
 # StudyBud
-Fiz este projeto durante meu aprendizado de Angular, no qual exercitei meus conhecimentos de lógica para desenvolver a aplicação.
+Fiz este projeto prático com o intuito de aprender a utilizar a ferramenta Django. Trata-se de um fórum para o compartilhamento de informações sobre estudos. 
+Curso do projeto disponível em: <a href="https://www.youtube.com/watch?v=PtQiiknWUcI">Python Django 7 Hour Course</a>
 
 
-Para rodar o app, basta executar o comando: 
+Para rodar o app, é preciso primeiro instalar os requisitos do projeto (Sugiro fazer a instalação em um ambiente virtual): 
 ```bash
-run serve
+pip install -r requirements.txt
 
 ```
 
+Em seguida é só executar o seguinte comando:
+```bash
+python manage.py runserver
+
+```
 
 ### Preview :
 
@@ -15,6 +21,7 @@ run serve
 <tr>
 <td width="100%">
 <br>
-<img src="https://github.com/jonathanoliveirarocha/Jogo-da-Velha/blob/master/SAMPLE.png">
+<img src="https://github.com/jonathanoliveirarocha/StudyBud/blob/main/SAMPLE.png">
 </td> 
 </table>
+
