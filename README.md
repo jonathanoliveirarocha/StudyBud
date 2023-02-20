@@ -1,15 +1,15 @@
 # StudyBud
-Fiz este projeto prático com o intuito de aprender a utilizar a ferramenta Django. Trata-se de um fórum para o compartilhamento de informações sobre estudos. 
-Curso do projeto disponível em: <a href="https://www.youtube.com/watch?v=PtQiiknWUcI">Python Django 7 Hour Course</a>
+I do this practical project in order to learn how to use the Django tool. It is a forum for sharing information about studies.
+Project course available at: <a href="https://www.youtube.com/watch?v=PtQiiknWUcI">Python Django 7 Hour Course</a>
 
 
-Para rodar o app, é preciso primeiro instalar os requisitos do projeto (Sugiro fazer a instalação em um ambiente virtual): 
+To run the app, you must first install the project requirements (I suggest installing in a virtual environment):
 ```bash
 pip install -r requirements.txt
 
 ```
 
-Em seguida é só executar o seguinte comando:
+Then just run the following command:
 ```bash
 python manage.py runserver
 
