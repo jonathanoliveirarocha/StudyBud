@@ -1,5 +1,5 @@
 # StudyBud
-I do this practical project in order to learn how to use the Django tool. It is a forum for sharing information about studies.
+I made this practical project in order to learn how to use the Django tool. It is a forum for sharing information about studies.
 Project course available at: <a href="https://www.youtube.com/watch?v=PtQiiknWUcI">Python Django 7 Hour Course</a>
 
 
