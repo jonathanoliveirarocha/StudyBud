@@ -3,7 +3,7 @@ I made this practical project in order to learn how to use the Django tool. It i
 Project course available at: <a href="https://www.youtube.com/watch?v=PtQiiknWUcI">Python Django 7 Hour Course</a>
 
 
-To run the app, you must first install the project requirements (I suggest installing in a virtual environment):
+To run the app, you must first install the <a href="https://www.python.org/downloads/">Python</a> and project requirements (I suggest installing in a virtual environment):
 ```bash
 pip install -r requirements.txt
 
